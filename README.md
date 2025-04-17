@@ -36,6 +36,9 @@ Welcome to **GrabOn**, a sleek and modern food delivery web application. This pr
 
 ## 🚀 Getting Started
 
+### Go to backend/config/db.js 
+Add your own MongoDB collection name
+
 To run this project locally, follow these steps:
 
 ### 1️⃣ Start the Backend Server
